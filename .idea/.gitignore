@@ -3,3 +3,7 @@
 /workspace.xml
 *.exe
 *.iml
+*.o
+*.dup
+*.so
+
